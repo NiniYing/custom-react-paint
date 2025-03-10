@@ -1,0 +1,14 @@
+plaintext
+深色版本
+# 忽略依赖包
+/node_modules
+
+# 忽略构建输出
+/build
+
+# 忽略环境配置文件
+.env*
+
+# 忽略编辑器配置文件
+/.vscode
+.DS_Store
